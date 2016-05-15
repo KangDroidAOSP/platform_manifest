@@ -19,7 +19,7 @@
            sync-j="4" />
 
 <!-- BEGIN CYANOGENMOD -->
-  <project path="build" name="KangDroidAOSP/android_build" groups="pdk" >
+  <project path="build" name="KangDroidAOSP/android_build" groups="pdk" revision="sm" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="android" name="CyanogenMod/android" />
@@ -277,7 +277,7 @@
   <project path="system/qcom" name="CyanogenMod/android_system_qcom" groups="qcom" />
   <project path="system/security" name="CyanogenMod/android_system_security" groups="pdk" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" groups="pdk" />
-  <project path="vendor/kdp" name="KangDroidAOSP/android_vendor_kdp" />
+  <project path="vendor/kdp" name="KangDroidAOSP/android_vendor_kdp" revision="sm" />
   <project path="vendor/cmsdk" name="KangDroidAOSP/cm_platform_sdk" />
 
 <!-- CMSDK SAMPLES -->
