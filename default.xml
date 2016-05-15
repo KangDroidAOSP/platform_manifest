@@ -507,6 +507,6 @@
   
   <!-- SaberMod additions -->
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"  groups="pdk,linux" remote="aosp" />
-  <project path="vendor/sm" name="KangDroid/android-vendor-sabermod" remote="github" />
+  <project path="vendor/sm" name="KangDroid/android-vendor-sabermod" remote="github" revision="master" />
 
 </manifest>
