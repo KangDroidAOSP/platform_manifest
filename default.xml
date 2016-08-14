@@ -142,7 +142,7 @@
   <project path="external/zip" name="CyanogenMod/android_external_zip" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="external/DUtils" name="DirtyUnicorns/android_external_DUtils" remote="github" revision="m"/>
-  <project path="packages/apps/DUI" name="DirtyUnicorns/android_packages_apps_DUI" remote="github" revision="m" />
+  <project path="packages/apps/DUI" name="KangDroidAOSP/android_packages_apps_DUI" remote="github" revision="m" />
   <project path="frameworks/av" name="KangDroidAOSP/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="KangDroidAOSP/platform_frameworks_base" groups="pdk-cw-fs,pdk-fs" revision="testing-rebase"/>
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
